@@ -43,7 +43,7 @@ df = df.rename(columns={'type': 'type',
                         'properties.participants_count': 'properties_participants_count',
                         'properties.participant_categories': 'properties_participant_categories'})
 
-df = df.head(7)
+# df = df.head(50000)
 df['properties_vehicles'] = df['properties_vehicles'].apply(json.dumps)
 df['properties_participants'] = df['properties_participants'].apply(json.dumps)
 df['properties_point_long'] = df['properties_point_long'].astype(float)
@@ -51,6 +51,6 @@ df['properties_point_long'] = df['properties_point_long'].astype(float)
 engine = create_engine('postgresql://postgres:b74c3e6@localhost:5432/postgres')
 
 
-df.to_sql('accident', engine, if_exists='replace', index=False, method='multi')
+df.to_sql('moskow_dtp', engine, schema='stg', if_exists='replace', index=False, method='multi')
 
 engine.dispose()

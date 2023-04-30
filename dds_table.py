@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 engine = create_engine('postgresql://postgres:b74c3e6@localhost:5432/postgres')
-accident_df = pd.read_sql('select * from public.accident', con=engine)
+accident_df = pd.read_sql('select * from public.stg', con=engine)
 
 
 # decode Unicode escape sequences in the 'properties_vehicles' column
