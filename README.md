@@ -20,6 +20,8 @@
 
 [DWH SQL](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/sql/create_star.sql)
 
+[visualization](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/visualization/visualization.md)
+
 [Machine Learning](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/ml)
 
 [Структура данных ДТП](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/struktura_data_DTP.py)
