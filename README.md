@@ -16,7 +16,7 @@
 
 [Dags Airflow](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/dags)
 
-[Schema star](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/schema_database)
+[Schema star](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/schema_database/shema_star.png)
 
 [DWH SQL](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/sql/create_star.sql)
 
