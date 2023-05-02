@@ -15,9 +15,13 @@
 # Навигация по проекту
 
 [Dags Airflow](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/dags)
+
 [Machine Learning](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/ml)
+
 [Schema star](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/schema_database)
+
 [DWH SQL](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/sql)
+
 [Структура данных ДТП](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/struktura_data_DTP.py)
 
 
