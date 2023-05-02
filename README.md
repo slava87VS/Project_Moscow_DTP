@@ -18,10 +18,10 @@
     Клонируйте репозиторий к себе на компьютер:
 
 
-
+```
 git clone https://github.com/your_username/dtp_analysis.git
 ```
     Установите зависимости:
-
+```
 pip install -r requirements.txt
 ```
