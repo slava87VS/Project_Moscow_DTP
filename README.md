@@ -22,7 +22,7 @@
 
 [Visualization](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/visualization/visualization.md)
 
-[Machine Learning](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/ml)
+[Machine Learning](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/ml/ml.ipynb)
 
 [Структура данных ДТП](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/struktura_data_DTP.py)
 
