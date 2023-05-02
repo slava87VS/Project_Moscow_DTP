@@ -24,6 +24,8 @@
 
 [Machine Learning](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/ml/ml.ipynb)
 
+[Hypothesis](https://colab.research.google.com/drive/1cEEkOUOoM7EHtv6q5NZpZy9-7DhlOwJd?usp=sharing)
+
 [Структура данных ДТП](https://github.com/slava87VS/Project_Moscow_DTP/blob/main/finish/struktura_data_DTP.py)
 
 
