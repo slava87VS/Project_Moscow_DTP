@@ -12,6 +12,8 @@
 
 В конце проекта будет осуществлена визуализация данных с помощью Tableau.
 
+Для удобства изучения проекта, создана навигация по разделам:
+
 # Навигация по проекту
 
 [Dags Airflow](https://github.com/slava87VS/Project_Moscow_DTP/tree/main/finish/dags)
